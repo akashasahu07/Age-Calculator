@@ -75,7 +75,8 @@ button:hover {
 
 .result h3 {
     color: #333;
-    font-size: 16px;
+    font-size: 18px;
+    margin-bottom: 10px;
 }
 
 .result p {
